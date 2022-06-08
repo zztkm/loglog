@@ -1,4 +1,4 @@
-# MC Server
+# MC Server 2022
 
 マイクラサーバー構築について書く
 
