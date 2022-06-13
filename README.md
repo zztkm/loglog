@@ -13,3 +13,5 @@ zztkm の 作業ログ
 - MCServer
 - Veltiosoft
 	- LINEBOT
+- gyudon
+	- Goの構造体からCLIを生成するフレームワーク
